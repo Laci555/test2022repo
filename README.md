@@ -1,2 +1,2 @@
 # test2022repo
-Ez a tanuló repo
+Ez az újratervezés tanuló repo
